@@ -1,0 +1,4 @@
+FundMeTest:testFundFailsWithoutEnoughEth() (gas: 29649)
+FundMeTest:testIfOwnerEqualsMsgSender() (gas: 12722)
+FundMeTest:testIfPriceVersionisFour() (gas: 10693)
+FundMeTest:testMinimumDollarisFive() (gas: 8756)
